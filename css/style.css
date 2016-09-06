@@ -26,10 +26,23 @@ input[type="button"], input[type="submit"] {
 	-o-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5,{
 	margin: 0;
 	padding: 0;
 	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing:1px;
+}
+h6{
+	text-align:left;
+	font-size:16px;
+	color:#000;
+	line-height:27px;
+	width:60%;
+	margin:0 auto;
+	margin-top:20px;
+	padding: 0;
+	text-align: left;
 	font-family: 'Roboto', sans-serif;
 	letter-spacing:1px;
 }
@@ -191,7 +204,7 @@ label.line {
 	margin-top:35px;
 }
 .about p{
-	text-align:center;
+	text-align:left;
 	font-size:14px;
 	color:#000;
 	line-height:27px;
