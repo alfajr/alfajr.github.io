@@ -38,11 +38,9 @@ h6{
 	font-size:16px;
 	color:#000;
 	line-height:27px;
-	width:60%;
 	margin:0 auto;
 	margin-top:20px;
 	padding: 0;
-	text-align: left;
 	font-family: 'Roboto', sans-serif;
 	letter-spacing:1px;
 }
@@ -204,6 +202,15 @@ label.line {
 	margin-top:35px;
 }
 .about p{
+	text-align:left;
+	font-size:14px;
+	color:#000;
+	line-height:27px;
+	width:60%;
+	margin:0 auto;
+	margin-top:20px;
+}
+table {
 	text-align:left;
 	font-size:14px;
 	color:#000;
